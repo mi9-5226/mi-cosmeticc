@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mi-cosmeticc.king-binance000.workers.dev/sitemap.xml
